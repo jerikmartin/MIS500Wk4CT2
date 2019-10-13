@@ -57,3 +57,5 @@ t.test(scores ~ group, data = my_data, var.equal = TRUE, alternative ="less")
 
 ?t.test
 #Test change for Github
+res
+#Test change for Github test 2
